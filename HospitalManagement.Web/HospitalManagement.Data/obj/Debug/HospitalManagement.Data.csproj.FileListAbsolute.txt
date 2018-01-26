@@ -1,0 +1,6 @@
+E:\Hospital\Hospital-Management-System\HospitalManagement.Web\HospitalManagement.Data\bin\Debug\HospitalManagement.Data.dll
+E:\Hospital\Hospital-Management-System\HospitalManagement.Web\HospitalManagement.Data\bin\Debug\HospitalManagement.Data.pdb
+E:\Hospital\Hospital-Management-System\HospitalManagement.Web\HospitalManagement.Data\obj\Debug\HospitalManagement.Data.csproj.CoreCompileInputs.cache
+E:\Hospital\Hospital-Management-System\HospitalManagement.Web\HospitalManagement.Data\obj\Debug\HospitalManagement.Data.dll
+E:\Hospital\Hospital-Management-System\HospitalManagement.Web\HospitalManagement.Data\obj\Debug\HospitalManagement.Data.pdb
+E:\Hospital\Hospital-Management-System\HospitalManagement.Web\HospitalManagement.Data\obj\Debug\HospitalManagement.Data.csprojResolveAssemblyReference.cache
