@@ -5,6 +5,7 @@ using System.Linq;
 using System.Web;
 using HospitalManagement.Data;
 
+
 namespace HospitalManagement.Web.Models
 {
     public class HospitalManagementContext : DbContext
@@ -45,6 +46,8 @@ namespace HospitalManagement.Web.Models
             modelBuilder.Entity<Floor>().HasMany(x => x.OperationTheaters).WithRequired(f => f.Floor).WillCascadeOnDelete(false);
 
             modelBuilder.Entity<Department>().HasMany(x => x.Tickets).WithRequired(f => f.Department).WillCascadeOnDelete(false);
+
+            
             base.OnModelCreating(modelBuilder);
 
         }
